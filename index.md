@@ -44,3 +44,5 @@ The festival runs from the end of November to the beginning of January.</p>
 <p>The Mark Twain House and Museum is located in Hartford.
 It was the home of Samuel Clemens, who wrote under the pen name Mark Twain.
 The house was built in 1874, and it's a National Historic Landmark.</p>
+
+<a href="index.html">Home</a> | <a href="more.html">More Info</a>
